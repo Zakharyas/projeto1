@@ -1,0 +1,41 @@
+body{
+    background-color: #c0611e;
+}
+
+h1{
+    font: normal 26px italic;
+    width: 400px;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 10px;
+}
+p, a{
+    background-color: whitesmoke;
+    font: normal 15px arial;
+    color: black;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 3px;
+    margin: auto;
+}
+.box{
+    display: inline;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 10px;
+}
+blockquote{
+    text-align: center;
+    font: normal 13px italic;
+}
+.qrcode{
+    margin-left: 80%;
+    border-radius: 20px;
+    width: 150px;
+    height: 200px;
+}

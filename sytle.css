@@ -33,9 +33,3 @@ blockquote{
     text-align: center;
     font: normal 13px italic;
 }
-.qrcode{
-    margin-left: 80%;
-    border-radius: 20px;
-    width: 150px;
-    height: 200px;
-}
